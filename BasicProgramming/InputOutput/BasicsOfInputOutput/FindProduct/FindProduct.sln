@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindProduct", "FindProduct\FindProduct.csproj", "{E5AF159B-CE69-4154-899C-CDFC8CA8C0E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{136759ED-5EFB-4A94-8CCC-E59358B467DE}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5AF159B-CE69-4154-899C-CDFC8CA8C0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AF159B-CE69-4154-899C-CDFC8CA8C0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AF159B-CE69-4154-899C-CDFC8CA8C0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AF159B-CE69-4154-899C-CDFC8CA8C0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
